@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Sriharivas Sula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharivas5" alt="sriharivas5" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg"/> 
 
 - 🔭 I’m currently working on **WebDevTrio**
 
